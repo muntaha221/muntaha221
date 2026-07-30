@@ -12,11 +12,6 @@
 ![](https://streak-stats.demolab.com/?user=muntaha221&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=muntaha221&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=muntaha221&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
-
 <!--
 **muntaha221/muntaha221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
