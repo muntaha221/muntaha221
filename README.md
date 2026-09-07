@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack web applications and AI-integrated projects    <br>🌱 I’m currently learning modern AI integrations, cloud concepts, and software engineering practices  <br>⚡ Fun fact: I enjoy turning creative ideas into real-world web applications
+💻 I’m a MERN Stack developer focused on building practical, scalable, and user-friendly web applications  
+🚀 I enjoy working with APIs, backend systems, databases, and AI integrations to turn ideas into real products  
+🌱 I’m continuously learning new technologies and improving my problem-solving and software engineering skills
 
 
 ## 🌐 Socials:
